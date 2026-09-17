@@ -1,0 +1,8 @@
+EXPERIMENT SUMMARY
+Best epoch: 2
+Best validation loss: 1.7548
+mAP@[0.50:0.95]: 0.0027
+AP50: 0.0099
+AP75: 0.0006
+AP small/medium/large: 0.0004 / 0.0056 / 0.0067
+Predictions: 81968
